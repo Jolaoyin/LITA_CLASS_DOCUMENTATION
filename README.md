@@ -2,12 +2,12 @@
 This is where i documented my first project while learning Data Analytics with the Incubator Hub
 
 ### Project Title: E Commerce Sales Analyst
-[Project Overview](#Project-Overview)
-Project Overview
+[Project Overview](#project-overview)
 
-Data Sources
 
-Tools Used
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
 
 Data Cleaning and Preparations
 
@@ -65,4 +65,10 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
  ![Screenshot (3)](https://github.com/user-attachments/assets/e631d338-f7ec-42a9-ac91-159fa5dca175)
 
+    🧯
+    💻
+
+    |Heading 1|Heading 2|Heading 3|
+    |---------|---------|---------|
+    |Table 1  |Table 2  | Table 3 |
     
