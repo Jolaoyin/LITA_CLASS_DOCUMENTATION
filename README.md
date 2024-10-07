@@ -55,6 +55,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
     This is where we include some basic lines of codes or queries or even some of the DAX expressions used during analysis
     
     ---SQL
+    
     Select * from Table 1
     where condition = true
     ---
