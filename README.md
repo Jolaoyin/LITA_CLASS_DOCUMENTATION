@@ -5,17 +5,17 @@ This is where i documented my first project while learning Data Analytics with t
 [Project Overview](#project-overview)
 
 
-[Data Sources](#data-sources)
+[Data Sources](data-surces)
 
 [Tools Used](#tools-used)
 
-Data Cleaning and Preparations
+[Data Cleaning and Preparations](#data-cleaning-and-preparation)
 
-Exploratory Data Analysis
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-Data Analysis
+[Data Analysis](#data-analysis)
 
-Data Visualization and Table Index
+[Data Visualization](#data-visualisation)
 
 Interpretation
 
@@ -52,13 +52,13 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
     ### Data Analysis
     ---
-    This is where we include some basic lines of codes or queries or even some of the DAX expressions used during analysis
+    This is where we include some basic lines of codes or queries or even some of the DAX expressions used during analysis;
     
-    ---SQL
+    ```SQL
     
     SELECT * FROM TABLE 1
     WHERE CONDITION = TRUE
-    ---
+    ```
 
     ### Data Visualisation
 ![Screenshot (1)](https://github.com/user-attachments/assets/076497b1-1a01-447d-a56c-6ef4d9af88c6)
