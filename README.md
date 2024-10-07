@@ -56,11 +56,13 @@ The primary source of data used here is Data Sale.csv and this is an open source
     
     ---SQL
     
-    Select * from Table 1
-    where condition = true
+    SELECT * FROM TABLE 1
+    WHERE CONDITION = TRUE
     ---
 
     ### Data Visualisation
+![Screenshot (1)](https://github.com/user-attachments/assets/076497b1-1a01-447d-a56c-6ef4d9af88c6)
 
-    
+ ![Screenshot (3)](https://github.com/user-attachments/assets/e631d338-f7ec-42a9-ac91-159fa5dca175)
+
     
