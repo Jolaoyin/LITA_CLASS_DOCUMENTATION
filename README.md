@@ -70,5 +70,6 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
     |Heading 1|Heading 2|Heading 3|
     |---------|---------|---------|
-    |Table 1  |Table 2  | Table 3 |
+    |Table   1|Table   2| Table 3|
+    
     
