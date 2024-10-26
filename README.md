@@ -32,7 +32,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
 1. Data Cleaning
 2. Analysis
 3. Visualisation
-4. 
+
 - SQL- Structured Query Language for queryng of data.
 - GitHub for Portfolio building
 
@@ -67,9 +67,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
     🧯
     💻
-
-    |Heading 1|Heading 2|Heading 3|
-    |---------|---------|---------|
-    |Table 1|Table 2|Table 3|
     
-    
+| Heading 1 | Heading 2 | Heading 3 |
+|-----------|-----------|-----------|
+| Table 1   | Table 2   | Table 3   |
