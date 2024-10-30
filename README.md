@@ -5,7 +5,7 @@ This is where i documented my first project while learning Data Analytics with t
 [Project Overview](#project-overview)
 
 
-[Data Sources](data-surces)
+[Data Sources](data-sources)
 
 [Tools Used](#tools-used)
 
@@ -38,14 +38,14 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
   ### Data Cleaning and Preparation
   ---
-  in the initial phase for data cleaning we perform the following action;
+  In the initial phase for data cleaning we perform the following action;
   Data Loading and Inspection
   Hnadling missing variables
   Data Cleaning and Formatting
 
   ### Exploratory Data Analysis
   ---
-  EDA involves exoloring of data
+  EDA involves exploring of data
   - what is the overall sales strend
   - which product are top sellers
   - what are the products on peak sales
